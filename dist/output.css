@@ -562,6 +562,18 @@ video {
   bottom: 0.75rem;
 }
 
+.top-10 {
+  top: 2.5rem;
+}
+
+.bottom-\[500px\] {
+  bottom: 500px;
+}
+
+.bottom-\[50px\] {
+  bottom: 50px;
+}
+
 .m-auto {
   margin: auto;
 }
@@ -687,6 +699,18 @@ video {
 
 .bg-\[url\(\'https\:\/\/digitalassets\.tesla\.com\/tesla-contents\/image\/upload\/f_auto\2c q_auto\/Homepage-Model-S-Desktop-LHD-6\.22\.jpg\'\)\] {
   background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg');
+}
+
+.bg-\[url\(\'https\:\/\/cdn\.motor1\.com\/images\/mgl\/nGQpy\/s1\/tesla-model-y\.webp\'\)\] {
+  background-image: url('https://cdn.motor1.com/images/mgl/nGQpy/s1/tesla-model-y.webp');
+}
+
+.bg-\[url\(\'https\:\/\/0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c\.ssl\.cf3\.rackcdn\.com\/publish\/wp-content\/uploads\/2022\/10\/Tesla-Model-Y-from-rear-via-PA-1590x1080\.jpg\'\)\] {
+  background-image: url('https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2022/10/Tesla-Model-Y-from-rear-via-PA-1590x1080.jpg');
+}
+
+.bg-\[url\(\'https\:\/\/digitalassets\.tesla\.com\/tesla-contents\/image\/upload\/f_auto\2c q_auto\/home-charging-fast-flexible-desktop\.jpg\'\)\] {
+  background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/home-charging-fast-flexible-desktop.jpg');
 }
 
 .bg-cover {
